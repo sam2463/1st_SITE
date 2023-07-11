@@ -1,20 +1,10 @@
-body {
-    background-color: cyan;
+body{
+    background-color: blanchedalmond;
 }
-
 hr {
     border-style: dotted none none none;
     height: 5px;
     border-color: black;
     border-width: 5px;
     width: 5%;
-}
-
-header{
-    border-color: brown;
-}
-
-.top{
-    background-attachment: local;
-    background-color: rgb(255, 127, 127);
 }
